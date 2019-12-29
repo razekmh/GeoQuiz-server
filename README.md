@@ -1,5 +1,5 @@
 # GeoQuiz server
-This is one of there repositories for a full mobile and web development project. The project was submitted for assessment during UCL masters course and was awarded ***distinction**. 
+This is one of there repositories for a full mobile and web development project. The project was submitted for assessment during UCL masters course and was awarded **distinction**. 
 
 ## System Requirements:
 The server uses the resources available to the class and was edited on a windows machine connected to the ubuntu server which we were provided access to during the class, to run the applications and the server these resources are needed
